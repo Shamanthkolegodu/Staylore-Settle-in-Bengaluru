@@ -1,0 +1,195 @@
+.img-front {
+  height: 300px;
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav-font {
+  font-size: 25px;
+  color: white;
+}
+.nav-font:hover {
+  color: #1ad2fb;
+  background-color: black;
+  padding: 3px;
+  border-radius: 10px;
+}
+.nav-design {
+  background-color: #000000;
+  border-bottom: white;
+}
+.content-design {
+  background-color: black;
+}
+.content-design-bg {
+  opacity: 0.7;
+}
+
+.bggg {
+  background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700462161.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+.bg-content {
+  background-image: url("https://cdn.home-designing.com/wp-content/uploads/2011/05/lighted-night-exterior-pool.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.bg-login-reg {
+  background-image: url("https://sparestuffs.com/wp-content/uploads/2018/07/Subha-9-Sky-Vue-View-01-Night-Copy-Copy-2-Copy-10.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.backg-img-intro {
+  background-image: url("https://images.wallpaperscraft.com/image/maldives_tropical_house_swimming_pool_spa_88020_3840x2400.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.backg-img {
+  background-image: url("https://wallpapercave.com/wp/wp2406709.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.media-body {
+  color: aliceblue;
+}
+.website-name {
+  font-size: 25px;
+  color: #1ad2fb;
+}
+.width-input {
+  align-items: center;
+  width: 500px;
+}
+.add-padding {
+  padding-left: 20px;
+}
+.radio-button-design {
+  font-size: 15px;
+  color: black;
+}
+.error-msg {
+  color: white;
+  font-size: 20px;
+}
+.radio-button-design {
+  margin-left: 100px;
+}
+.radio-table {
+  background-color: sandybrown;
+  border-radius: 10px;
+}
+
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
+
+.slides {
+  position: relative;
+}
+
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+}
+
+.slides .slick-prev {
+  left: 5%;
+}
+
+.slides .slick-next {
+  right: 5%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 31%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after,
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+.font {
+  color: aliceblue;
+}
+.web-name {
+  font-family: "Brush Script MT";
+  font-size: 200px;
+  color: red;
+  border: silver;
+}
+.web-tagname {
+  font-family: "Brush Script MT";
+  font-size: 100px;
+  color: red;
+}
+.name-box {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  margin-left: -250px; /* margin is -0.5 * dimension */
+  margin-top: -125px;
+}
+.name-box-tag {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  margin-left: -300px; /* margin is -0.5 * dimension */
+}
+.images {
+  height: 700px;
+}
